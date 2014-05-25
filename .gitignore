@@ -24,3 +24,4 @@ app-glui-v8.kdev4
 *.exe
 *.out
 *.app
+src/.CMakeModules/CMakeFiles/
