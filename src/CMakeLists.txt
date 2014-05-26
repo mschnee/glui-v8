@@ -61,5 +61,3 @@ list( APPEND CMAKE_CXX_FLAGS
 add_executable(app-glui-v8 ${SOURCE_FILES} ${RESOURCE_ADDED})
 qt5_use_modules(app-glui-v8 Core Widgets OpenGL)
 target_link_libraries(app-glui-v8 ${OPENGL_gl_LIBRARY} ${GLEW_LIBRARY} Qt5::Core Qt5::OpenGL Qt5::Widgets)
-
-
