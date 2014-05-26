@@ -1,0 +1,8 @@
+{
+    "Video": {
+        "fullScreen": "false",
+        "windowed": "false",
+        "resolution": "640x480"
+    },
+    "Sound": {}
+}
